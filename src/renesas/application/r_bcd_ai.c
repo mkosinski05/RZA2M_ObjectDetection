@@ -31,7 +31,7 @@ Private global variables and functions
 ******************************************************************************/
 
 #ifdef R_BCD_BAYER_RGB
-	static TPrecision input_img[R_BCD_AI_INPUT_X * R_BCD_AI_INPUT_Y * 3];
+	static TPrecision input_img[R_BCD_AI_INPUT_X * R_BCD_AI_INPUT_Y * 3]  __attribute__ ((section("ImageWork_RAM")));
 #else
 	static TPrecision input_img[R_BCD_AI_INPUT_X * R_BCD_AI_INPUT_Y];
 #endif

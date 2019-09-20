@@ -8,10 +8,12 @@
 #ifndef INC_R_BCD_AI_H_
 #define INC_R_BCD_AI_H_
 
+#define R_BCD_BAYER_RGB
 //#define R_BCD_AI_INPUT_128
 #define R_BCD_AI_INPUT_64
 
 //wang_test
+#define R_BCD_BAYER_CAMERA
 #define R_BCD_AI_INPUT_RGB
 //#define R_BCD_AI_INPUT_GRY
 
