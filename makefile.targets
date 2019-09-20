@@ -1,0 +1,3 @@
+drp_dynamic_sample3.elf: ../generate/linker_script.ld
+
+# vim:noexpandtab:

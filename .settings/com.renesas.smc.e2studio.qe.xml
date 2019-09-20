@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<QE>
+<Segment id="Pin">
+<Setting id="B20" value="LCD0_DATA16"/>
+<Setting id="Y9" value="TXCLKOUTP"/>
+<Setting id="D21" value="RIIC2SCL"/>
+<Setting id="D20" value="RIIC3SCL"/>
+<Setting id="H21" value="LCD0_DATA23"/>
+<Setting id="F22" value="LCD0_DATA19"/>
+<Setting id="J20" value="LCD0_TCON0"/>
+<Setting id="AA7" value="TXOUT0P"/>
+<Setting id="A9" value="LCD0_DATA4"/>
+<Setting id="AA8" value="TXOUT2P"/>
+<Setting id="AB17" value="LCD0_TCON4"/>
+<Setting id="AA9" value="TXCLKOUTM"/>
+<Setting id="A10" value="VIO_D2"/>
+<Setting id="A12" value="VIO_D3"/>
+<Setting id="C10" value="VIO_D0"/>
+<Setting id="A15" value="VIO_D4"/>
+<Setting id="A16" value="RxD4"/>
+<Setting id="C15" value="TxD4"/>
+<Setting id="C14" value="LCD0_DATA7"/>
+<Setting id="C17" value="LCD0_DATA12"/>
+<Setting id="C16" value="VIO_D6"/>
+<Setting id="A19" value="VIO_D7"/>
+<Setting id="C19" value="LCD0_DATA18"/>
+<Setting id="E19" value="RIIC2SDA"/>
+<Setting id="F4" value="LCD0_DATA0"/>
+<Setting id="B8" value="LCD0_DATA3"/>
+<Setting id="AB7" value="TXOUT0M"/>
+<Setting id="AB8" value="TXOUT2M"/>
+<Setting id="B9" value="VIO_HD"/>
+<Setting id="A20" value="LCD0_DATA14"/>
+<Setting id="W9" value="TXOUT1M"/>
+<Setting id="C21" value="RIIC3SDA"/>
+<Setting id="G20" value="LCD0_DATA20"/>
+<Setting id="K2" value="LCD0_CLK"/>
+<Setting id="G21" value="LCD0_DATA21"/>
+<Setting id="M20" value="P6_0"/>
+<Setting id="C1" value="LCD0_DATA1"/>
+<Setting id="C8" value="VIO_CLK"/>
+<Setting id="AA19" value="LCD0_TCON3"/>
+<Setting id="C9" value="VIO_VD"/>
+<Setting id="B10" value="VIO_D1"/>
+<Setting id="D11" value="LCD0_DATA5"/>
+<Setting id="B14" value="LCD0_DATA6"/>
+<Setting id="D14" value="LCD0_DATA8"/>
+<Setting id="B16" value="VIO_D5"/>
+<Setting id="B17" value="LCD0_DATA10"/>
+<Setting id="D16" value="LCD0_DATA11"/>
+<Setting id="L4" value="LCD0_EXTCLK"/>
+<Setting id="D15" value="LCD0_DATA9"/>
+<Setting id="B18" value="LCD0_DATA13"/>
+<Setting id="B19" value="LCD0_DATA15"/>
+<Setting id="D17" value="LCD0_DATA17"/>
+<Setting id="H19" value="LCD0_DATA22"/>
+<Setting id="D9" value="LCD0_DATA2"/>
+<Setting id="Y8" value="TXOUT1P"/>
+</Segment>
+</QE>
